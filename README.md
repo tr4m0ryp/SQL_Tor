@@ -1,7 +1,7 @@
 # SQL_Tor - DarkWeb Vulnability Scraper
 
 
-**Payback time for the unethical people.** This program uses Ahmia to find onion-based websites based on your search input. It will then check all the URLs to determine whether they are dynamic and might be vulnerable to SQL injection. If so, you can use your SQL expertise to practice taking down those filthy businesses on the Tor browser.
+This program uses Ahmia to find onion-based websites based on your search input. It will then check all the URLs to determine whether they are dynamic and might be vulnerable to SQL injection. If so, you can use your SQL expertise to practice taking down those filthy businesses on the Tor browser.
 
 ## Requirements
 
